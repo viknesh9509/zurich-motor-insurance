@@ -1,0 +1,53 @@
+// {
+//   "emmet.includeLanguages": {
+//     "javascript": "javascriptreact",
+//     "typescript": "typescriptreact"
+//   },
+//   "editor.codeActionsOnSave": {
+//     "source.fixAll": true,
+//     "source.organizeImports": true // Auto organize imports on save
+//   },
+//   "typescript.updateImportsOnFileMove.enabled": "always", // Update imports when you move files
+//   "editor.formatOnSave": true, // Auto format code on save
+//   "editor.tabSize": 2, // Set tab size to 2 spaces
+//   "editor.insertSpaces": true, // Use spaces instead of tabs
+//   "javascript.preferences.importModuleSpecifier": "shortest", // Use shortest path for imports
+//   "typescript.preferences.importModuleSpecifier": "shortest", // Use shortest path for TypeScript imports
+//   "eslint.enable": true, // Enable ESLint
+//   "eslint.format.enable": true, // Auto-format using ESLint
+//   "eslint.autoFixOnSave": true, // Auto-fix ESLint issues on save
+//   "eslint.validate": [
+//     "javascript",
+//     "javascriptreact",
+//     "typescript",
+//     "typescriptreact"
+//   ],
+//   "prettier.requireConfig": true, // Use local prettier configuration
+//   "prettier.singleQuote": true, // Use single quotes in JS/TS files
+//   "prettier.trailingComma": "all", // Add trailing commas where valid in ES5
+//   "prettier.tabWidth": 2, // Set prettier tab size to 2
+//   "prettier.useTabs": false, // Use spaces instead of tabs in prettier
+//   "prettier.semi": true, // Add semicolons at the end of statements
+//   "files.eol": "\n", // Set end of line to LF (for cross-platform projects)
+//   "typescript.suggest.autoImports": true, // Enable auto imports in TypeScript
+//   "javascript.suggest.autoImports": true, // Enable auto imports in JavaScript
+//   "editor.suggestSelection": "first", // Automatically select the first suggested item
+//   "editor.quickSuggestions": {
+//     "other": true,
+//     "comments": false,
+//     "strings": true
+//   },
+//   "explorer.confirmDragAndDrop": false, // Disable confirm drag and drop
+//   "explorer.confirmDelete": false, // Disable confirm delete
+//   "search.exclude": {
+//     "**/node_modules": true, // Exclude node_modules from search
+//     "**/bower_components": true
+//   },
+//   "files.exclude": {
+//     "**/node_modules": true, // Exclude node_modules from the file tree
+//     "**/bower_components": true
+//   },
+//   "workbench.iconTheme": "material-icon-theme", // Optional: Use Material Icon Theme for better icons
+//   "workbench.colorTheme": "Atom One Dark", // Optional: Dark theme for better visual clarity
+//   "npm.enableScriptExplorer": true // Enable npm script explorer in the sidebar
+// }
